@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_projects/mlruns/0/9bf82775b2044d26949a303a3af0d300/artifacts
+end_time: 1711660779228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bf82775b2044d26949a303a3af0d300
+run_name: sedate-sloth-697
+run_uuid: 9bf82775b2044d26949a303a3af0d300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711660776471
+status: 3
+tags: []
+user_id: sabar
